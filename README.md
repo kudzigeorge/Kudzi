@@ -1,0 +1,2 @@
+# Kudzi
+My first repository
